@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "Progressive Web App that lists games submitted to the A-Frame category in the js13kGames 2017 competition.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "/images/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "PLS",
+  "short_name": "Pls",
+  "start_url": "/"
+}
